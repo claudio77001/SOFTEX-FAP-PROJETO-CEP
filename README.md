@@ -41,5 +41,5 @@ Para executar este projeto, você precisará ter o **Node.js** instalado.
    npm run dev
    ```
 ---
-⌨️ por [Claudio Jose](https://github.com/claudio77001)
+⌨️ por [Claudio Jose] (https://github.com/claudio77001)
 ) 
