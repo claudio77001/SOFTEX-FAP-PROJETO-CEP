@@ -29,7 +29,7 @@ Para executar este projeto, você precisará ter o **Node.js** instalado.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/CatarinaGuima/SOFTEX-FAP-PROJETO-CEP.git
+   git clone https://github.com/claudio77001/SOFTEX-FAP-PROJETO-CEP.git
    ```
 2. Instale as dependências:
    ```bash
